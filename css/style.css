@@ -647,7 +647,9 @@ color:#000;
 @media only screen and (max-width: 500px) {
 
   .background-cover {
-    background-position-x: 34px;
+    /* background-position-x: 34px; */
+    background-position-x: -326px;
+    background-position-y: -170px;
   }
   .row.grey-box  .row .col.s6 {width: 100%;}
 
